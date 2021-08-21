@@ -2,6 +2,7 @@
 This is a chrome extension developed with Vue.js, it is developer friendly and got all the tools needed for fast development and hot reload.
 
 <h2>How to install</h2>
+
 - Clone the repo.
 - Run `npm install`
 - Run `npm run dev` for hot reload and live updates.
